@@ -31,7 +31,7 @@ public class VortexCommand implements CommandExecutor
 			commandSender.sendMessage("10 April 2019");
 			commandSender.sendMessage("GitHub: jstnf");
 			commandSender.sendMessage("");
-			commandSender.sendMessage("Based on gnembom's April Fools 2019 video");
+			commandSender.sendMessage("Based on gnembon's April Fools 2019 video");
 			commandSender.sendMessage("/vortex help for help");
 		}
 		else
