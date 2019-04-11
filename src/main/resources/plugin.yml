@@ -4,7 +4,7 @@ main: com.jstnf.vortex.Vortex
 
 author: jstnf
 
-description: Recreation of gnembom's Vortex Enchantment April Fools joke
+description: Recreation of gnembon's Vortex Enchantment April Fools joke
 api-version: 1.13
 
 commands:
