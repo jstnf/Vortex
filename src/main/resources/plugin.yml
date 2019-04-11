@@ -1,0 +1,13 @@
+name: Vortex
+version: 1.0
+main: com.jstnf.vortex.Vortex
+
+author: jstnf
+
+description: Recreation of gnembom's Vortex Enchantment April Fools joke
+api-version: 1.13
+
+commands:
+  vortex:
+    description: Main command for Vortex.
+    permission: vortex.vortex
